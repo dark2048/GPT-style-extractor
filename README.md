@@ -81,3 +81,7 @@ python generate_style_profiles.py
 **Note:**  
 - Requires access to Azure OpenAI GPT-4.1 Vision with image input capability.
 - Make sure your Azure credentials and endpoint are correct in the `.env` file.
+
+#Donations
+eth: 0xC02b18d1C9b3CE979d26cbEFb128ADFf876761C0
+btc: bc1qfarfxx9xzrqs07h5p7aq0l6dx020ef3zlqswq4
