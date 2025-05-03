@@ -1,0 +1,91 @@
+{
+  "art_style_profile": {
+    "name": "Nightmare Before Christmas",
+    "visual_genre": [
+      "Gothic",
+      "Dark Fantasy",
+      "Stop-motion",
+      "Expressionist",
+      "Macabre"
+    ],
+    "color_palette": {
+      "primary_colors": [
+        "muted purples",
+        "blacks",
+        "whites",
+        "grays"
+      ],
+      "accent_colors": [
+        "orange",
+        "yellow",
+        "red",
+        "blue highlights"
+      ]
+    },
+    "lighting": {
+      "contrast": "high",
+      "mood": [
+        "moody",
+        "dramatic",
+        "spotlighting"
+      ],
+      "source": [
+        "full moon glow",
+        "high contrast backlighting",
+        "vibrant colored sidelights"
+      ]
+    },
+    "character_design": {
+      "features": [
+        "exaggerated long limbs and fingers",
+        "thin, elongated bodies",
+        "large, expressive eyes and eye sockets",
+        "skull-like or puppet-like heads",
+        "stitched features",
+        "angular and crooked postures"
+      ],
+      "costuming": [
+        "Victorian or vintage clothing silhouettes",
+        "pinstripe suits",
+        "large bowties",
+        "eccentric, whimsical details"
+      ]
+    },
+    "set_design_and_composition": {
+      "environment": [
+        "fantastical, warped landscapes",
+        "twisted spiral hills",
+        "skewed, asymmetrical architecture",
+        "dark forests",
+        "old graveyards"
+      ],
+      "background_style": [
+        "soft gradients",
+        "eerie mist or fog",
+        "motifs like swirls, spirals, cobwebs"
+      ],
+      "atmosphere": [
+        "whimsical but ominous",
+        "playful spookiness"
+      ]
+    },
+    "texture_and_material": {
+      "surfaces": [
+        "matte finish",
+        "visible brushstrokes",
+        "textures resembling felt, cloth, or clay",
+        "slightly rough, tactile details"
+      ]
+    },
+    "animation_qualities": [
+      "stop-motion aesthetic",
+      "slightly jerky, puppet-like movement",
+      "handcrafted feel"
+    ],
+    "thematic_elements": [
+      "combination of Halloween & holiday motifs",
+      "innocent horror",
+      "humorously macabre"
+    ]
+  }
+}

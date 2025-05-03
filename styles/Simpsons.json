@@ -1,0 +1,41 @@
+{
+  "art_style": "The Simpsons",
+  "description": "A vibrant, cartoon-style characterized by bold outlines, flat colors, and exaggerated features. Recognizable through its satirical, humorous approach and simple, expressive forms.",
+  "structure": {
+    "line_work": {
+      "outline": "Thick, black, uniform outlines around characters and major objects.",
+      "interior_lines": "Minimal interior detailing; subtle thin lines for facial expressions, hair, and fingers."
+    },
+    "color_palette": {
+      "skin": "Solid, bright yellow for human characters.",
+      "shading": "Simple cell-shading; minimal gradients, occasional flat shadows.",
+      "clothes": "Bright, saturated colors for clothing with minimal texturing.",
+      "background": "Soft, flat pastel shades; occasional gradients for sky and simple environmental details."
+    },
+    "shapes": {
+      "characters": "Exaggerated, rounded body proportions; overlarge eyes and mouths.",
+      "features": "Simple geometric shapes: circles for eyes, ovals for heads and hands, spiky or stylized hair.",
+      "environment": "Simplified, easily recognizable objects and locations; minimal detail, focus on clarity."
+    },
+    "composition": {
+      "perspective": "Straightforward, mostly 2D with mild perspective effects.",
+      "framing": "Centralized characters with readable expressions; group compositions often show all faces clearly.",
+      "action": "Emphasized through exaggerated poses and facial expressions."
+    },
+    "expression": {
+      "faces": "Large eyes with prominent pupils; clear, expressive mouths and eyebrows.",
+      "emotion": "Highly expressive, exaggerated emotions and gestures."
+    },
+    "lighting_and_effects": {
+      "lighting": "Flat lighting with minimal highlights.",
+      "effects": "Occasional simple effects (e.g., confetti, clouds) using flat colors, no complex textures."
+    }
+  },
+  "consistency_tips": [
+    "Maintain uniform outline thickness.",
+    "Use a limited, consistent color palette.",
+    "Avoid excessive detail; keep shapes and features bold and clear.",
+    "Focus on character expressions and exaggerated posing.",
+    "Backgrounds should be simple, not distract from characters."
+  ]
+}

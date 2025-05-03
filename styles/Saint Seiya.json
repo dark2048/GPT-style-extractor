@@ -1,0 +1,43 @@
+{
+  "art_style_profile": {
+    "franchise": "Saint Seiya",
+    "visual_genre": "Classic 1980s-1990s Japanese Anime",
+    "linework": {
+      "type": "Clean, bold outlines",
+      "variation": "Medium to heavy for contours, finer for inner details",
+      "expression": "Emphasizes dynamic poses and facial expressions"
+    },
+    "color_palette": {
+      "range": "Vibrant and saturated colors",
+      "shading": "Cell-shaded with high contrast highlights and shadows",
+      "accent": "Use of metallic sheens, especially for armor and accessories"
+    },
+    "character_design": {
+      "proportions": "Athletic, tall and slender bodies; elongated limbs",
+      "anatomy": "Highly stylized but consistent anime musculature",
+      "faces": {
+        "shape": "Pointed chins, large eyes with detailed irises and highlights",
+        "features": "Sharp noses, expressive mouths, prominent eyelashes"
+      },
+      "hairstyles": "Large, gravity-defying, spiky or flowing; varied bright colors",
+      "costumes": {
+        "theme": "Ornate armor inspired by mythology and constellations",
+        "details": "Segmented plating, crests, belts, gems, themed motifs (e.g. wings, horns, animals)"
+      }
+    },
+    "pose_and_composition": {
+      "dynamism": "Dynamic, heroic stances; group compositions frequently display variety in posture and interaction",
+      "angles": "Frequent use of foreshortening and perspective for action",
+      "grouping": "Front-facing character arrangements, with overlap and depth"
+    },
+    "backgrounds": {
+      "setting": "Often celestial, mythological, or with grand architectural columns or cosmic motifs",
+      "technique": "Simple gradients or star fields to emphasize character prominence"
+    },
+    "effects": {
+      "lighting": "Strong highlights on armor, energy glows, and star-like sparkles",
+      "motion": "Speed lines, glowing auras, and action blurs"
+    },
+    "overall_mood": "Epic, heroic, and dramatic, with an emphasis on teamwork and valor"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "artStyle": "Dragon Quest",
+  "influences": [
+    "Classic shonen manga",
+    "Akira Toriyama character design",
+    "Traditional anime"
+  ],
+  "lineArt": {
+    "thickness": "Variable, predominantly clean and bold for characters, thinner for details",
+    "type": "Smooth inked lines",
+    "outlines": "Consistent outlining around characters and key elements"
+  },
+  "colorPalette": {
+    "scheme": "Bright, vibrant colors with distinct separation",
+    "skin": "Peach or lightly saturated for humans",
+    "hair": "High-contrast, saturated colors",
+    "costumes": "Primary and secondary bold colors, often blue, red, green, black, gold"
+  },
+  "shading": {
+    "style": "Cell shading",
+    "shadowContours": "Defined, sharp-edged shadows, typically 1-2 levels",
+    "highlighting": "Simple, usually a single highlight on hair/armor/weapons"
+  },
+  "characterDesign": {
+    "proportions": "Anime heroics – large expressive eyes, small noses, rounded faces",
+    "ageFeatures": "Youthful appearances, exaggerated features for young characters, chibi variants for comedic or monster forms",
+    "hair": "Stylized, spiky or exaggerated, with highlight bands",
+    "costumes": "Fantasy adventure attire (armor, sashes, tunics, boots, oversized gloves or belts)",
+    "accessories": "Headbands, jewelry, weaponry, and adventure gear"
+  },
+  "monsterDesign": {
+    "style": "Cartoony exaggeration with whimsical, iconic features",
+    "palette": "Distinct, saturated colors per monster",
+    "expressions": "Goofy, cute, or menacing, often with big eyes and overdone emotion"
+  },
+  "backgroundStyle": {
+    "colorUsage": "Soft gradients, hand-painted look",
+    "detailLevel": "Moderate, emphasizing fantasy environments, nature, or magical architecture",
+    "technique": "Blended skies, simple clouds, lush foliage, stylized elemental effects (lightning, magic, etc.)"
+  },
+  "composition": {
+    "posing": "Dynamic action, exaggerated movement or heroic stances",
+    "grouping": "Sense of adventure and camaraderie; characters and monsters together, overlapping but clearly separated by line and color",
+    "focus": "Central characters dominate, background secondary and suggestive"
+  },
+  "emotion": {
+    "expression": "Exaggerated, easily readable; often high energy or spirited",
+    "mood": "Upbeat, adventurous, and optimistic"
+  }
+}

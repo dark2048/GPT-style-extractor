@@ -1,0 +1,45 @@
+{
+  "art_style_name": "Disney Classic Animation",
+  "color_palette": {
+    "dominant_tones": [
+      "vivid primaries",
+      "pastel highlights",
+      "soft gradients",
+      "muted shadows"
+    ],
+    "contrast": "high contrast between characters and backgrounds, use of shadow for visual depth",
+    "lighting": "soft, diffuse lighting with luminous highlights for magical or whimsical effect"
+  },
+  "linework": {
+    "outline": "solid, clean, black or dark-colored outlines",
+    "weight": "variable line weight to emphasize form (thicker outlines for main characters/objects, thinner for details)"
+  },
+  "shading": {
+    "type": "cel shading",
+    "shadows": "well-defined, clean-edged shadows, minimal texture",
+    "highlighting": "discrete and smooth highlights, emphasizing roundness and volume"
+  },
+  "character_design": {
+    "proportions": "exaggerated, childlike proportions; large eyes, small noses/mouths",
+    "expressiveness": "highly expressive faces and gestures, with clear emotional cues",
+    "simplification": "simplified anatomical details for animation readiness",
+    "clothing/hair": "stylized with bold shape language, solid color blocking"
+  },
+  "background_design": {
+    "complexity": "detailed painted backdrops, but less saturated and lower contrast than characters",
+    "texture": "soft painterly gradients or subtle brushwork, minimal photorealism",
+    "integration": "backgrounds serve to frame and clarify the action, never distracting from characters"
+  },
+  "composition": {
+    "focus": "clear visual hierarchy, main characters always prominent",
+    "framing": "dynamic but centered compositions, strong use of leading lines and curves"
+  },
+  "animation_ready_aspects": {
+    "consistency": "highly consistent structural forms for ease of animation",
+    "modularity": "designs suitable for classic hand-drawn cel-by-cel animation workflows"
+  },
+  "visual_mood": {
+    "tone": "whimsical, magical, optimistic",
+    "themes": "storybook/fairytale influences with a sense of wonder"
+  }
+}

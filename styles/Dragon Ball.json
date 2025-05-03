@@ -1,0 +1,83 @@
+{
+  "art_style_profile": {
+    "style_name": "Dragon Ball Anime/Manga",
+    "influences": [
+      "Shonen anime",
+      "Akira Toriyama style",
+      "1980s–2000s anime"
+    ],
+    "color_palette": {
+      "general": [
+        "vivid colors",
+        "high saturation",
+        "contrasting tones"
+      ],
+      "skin": [
+        "light peach",
+        "tan",
+        "light green for alien characters"
+      ],
+      "hair": [
+        "solid black, dark brown, occasional unusual colors (blonde, blue)",
+        "highlights"
+      ],
+      "outfits": [
+        "orange, blue, green, purple, white, black"
+      ],
+      "backgrounds": [
+        "gradient skies",
+        "greens, blues, and oranges",
+        "cel-shaded environments"
+      ]
+    },
+    "linework": {
+      "thickness": "bold, black outlines",
+      "style": "clean, confident, uniform",
+      "variation": "thicker on outer edges, thinner on inner details"
+    },
+    "shading": {
+      "type": [
+        "cel-shading",
+        "minimal soft gradients"
+      ],
+      "location": [
+        "dynamic shadows, often high contrast",
+        "focus on muscles and fabric folds"
+      ],
+      "highlight": "white or light-colored, well defined"
+    },
+    "character_design": {
+      "anatomy": "athletic build, exaggerated muscle definition, proportionally large eyes and spiky hair",
+      "expression": "dynamic, expressive faces; often intense, with strong emotional display",
+      "pose": "action-oriented, dramatic perspective (foreshortening, dynamic foreshortened limbs)",
+      "costume": "distinct iconic uniforms and armor, with symbolic logos and belts"
+    },
+    "environment": {
+      "background": "painted or cel-shaded, simplified yet colorful",
+      "features": [
+        "alien landscapes (blue/green terrain, spherical trees, unusual skies)",
+        "simple but iconic locations (mountains, forests, open plains)",
+        "Dragon Balls depicted with glowing effects and prominent stars"
+      ],
+      "depth": "layered backgrounds, simple atmospheric perspective"
+    },
+    "composition": {
+      "focus": "characters are the primary focus, often in groups or dramatic solo shots",
+      "angles": "low or high camera angles, dynamic compositions with strong sense of movement",
+      "foreground-background separation": "foreground figures sharply outlined; backgrounds lighter, less detailed"
+    },
+    "aesthetic_keywords": [
+      "anime",
+      "manga",
+      "cel-shading",
+      "dynamic action",
+      "intense energy",
+      "vivid",
+      "heroic"
+    ],
+    "medium": [
+      "digital art emulating traditional animation cels",
+      "2D hand-drawn anime style"
+    ]
+  }
+}

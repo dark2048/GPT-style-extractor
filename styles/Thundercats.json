@@ -1,0 +1,52 @@
+{
+  "artStyle": "1980s Animated Cartoon",
+  "influence": [
+    "Classic Western animation",
+    "Japanese anime elements"
+  ],
+  "colorPalette": {
+    "type": "vibrant and saturated",
+    "dominantColors": [
+      "bold reds",
+      "deep blues",
+      "bright yellows",
+      "oranges",
+      "flesh tones",
+      "contrasting accent colors"
+    ]
+  },
+  "lineArt": {
+    "quality": "thick, clean black outlines",
+    "usage": "strong separation of shapes, heavy contouring, minimal line texture"
+  },
+  "shading": {
+    "type": "cell shading",
+    "shadowStyle": "block shadows with hard edges, minimal gradients",
+    "highlightStyle": "spot highlights, very rarely soft or blended"
+  },
+  "anatomy": {
+    "figureProportions": "heroic, athletic build with exaggerated muscles (especially upper body and limbs)",
+    "poseStyle": "dynamic, action-oriented, heroic stances"
+  },
+  "characterDesign": {
+    "features": "animal-inspired humanoids, expressive body language, distinctive costumes",
+    "outfits": "form-fitted, stylized with insignia/logos and metallic details",
+    "colorBlocking": "bold, segmented color regions (costume parts are clearly defined)"
+  },
+  "backgrounds": {
+    "style": "minimal or abstract, often out of focus, with simple gradients or solid colors",
+    "gradientUsage": "frequent use of dramatic gradient backgrounds (red to yellow/orange, etc.)"
+  },
+  "composition": {
+    "framing": "group shots or heroic close-ups, occasionally overlapped characters",
+    "logoPlacement": "prominent series logo, often integrated or superimposed"
+  },
+  "overallMood": {
+    "tone": "epic, adventurous, energetic",
+    "emotion": "bold, expressive character emotion"
+  },
+  "texture": {
+    "surfaceFinish": "flat, crisp, very little texturing or noise",
+    "patterns": "occasional stripe/spot patterns for animal features"
+  }
+}

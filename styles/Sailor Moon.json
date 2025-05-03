@@ -1,0 +1,65 @@
+{
+  "art_style_profile": {
+    "name": "Sailor Moon / Magical Girl Anime",
+    "genre": [
+      "shoujo",
+      "magical girl",
+      "anime",
+      "retro anime",
+      "modern anime"
+    ],
+    "visual_characteristics": {
+      "lineart": {
+        "weight": "variable (medium to thin, sometimes bold in retro style)",
+        "clarity": "crisp and clean, with emphasized outlines",
+        "line_color": "mostly black or dark brown"
+      },
+      "color_palette": {
+        "saturation": "high, vibrant colors",
+        "contrast": "high between highlights and shadows",
+        "tones": "pastels, jewel tones, vivid primaries",
+        "highlighting": "frequent use of white rim lighting and sparkles"
+      },
+      "shading_and_lighting": {
+        "shading_type": "cell shading, minimal gradient blending, frequent hard shadows",
+        "highlight_usage": "generous highlights, especially in hair, eyes, and accessories",
+        "effects": "sparkles, starbursts, glowing light, magical glows"
+      },
+      "backgrounds": {
+        "style": "abstract gradients, stars, sparkles, magical motifs, or simple cityscapes",
+        "detail_level": "medium to low detail, often serving as a thematic backdrop"
+      },
+      "character_design": {
+        "proportions": "slender, long legs and necks, small waists",
+        "pose_style": "dynamic, energetic, with iconic action or transformation poses",
+        "expressions": "large, expressive eyes; heightened emotion conveyed through eyes and exaggerated mouth forms"
+      },
+      "eyes": {
+        "shape": "very large, almond or round, with distinct highlights",
+        "color_style": "bright, saturated, multi-tonal irises with sparkles and shine",
+        "emphasis": "primary focal point of face"
+      },
+      "hair": {
+        "treatment": "long, dramatic, gravity-defying hair with ornate accessories",
+        "coloring": "vivid and often highlighted with rim lighting and gleaming accents"
+      },
+      "fashion_and_costume": {
+        "outfit": "elaborate, sailor-inspired uniforms with bold bows, collars, gloves, pleated skirts",
+        "accessories": "jewelry, tiaras, magical wands/rods, earrings"
+      },
+      "textures_and_effects": {
+        "sparkles": "frequently overlaid, especially in transformations",
+        "glow": "used for magical effects and accessories",
+        "motion": "implied through action lines or flowing hair/skirt"
+      }
+    },
+    "references": {
+      "era": "Primarily 1990s with updated modern touches in newer adaptations",
+      "influences": [
+        "Naoko Takeuchi's original manga",
+        "classic shoujo anime"
+      ]
+    },
+    "do_not_include": "specific character faces or original copyrighted character data"
+  }
+}

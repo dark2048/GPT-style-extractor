@@ -1,0 +1,45 @@
+{
+  "art_style_profile": {
+    "era": "Late 1980s to early 1990s classic anime",
+    "linework": {
+      "quality": "Clean, bold lines with moderate thickness",
+      "variation": "Minimal line weight variance, emphasizing character outlines",
+      "contour": "Rounded contours, soft geometric forms"
+    },
+    "color_palette": {
+      "tones": "Bright and saturated primary and secondary colors",
+      "shading": "Cell-shaded with distinct, hard shadows; minimal gradient use",
+      "highlighting": "Simple highlights, often a single color shape, especially on hair"
+    },
+    "character_design": {
+      "facial_features": {
+        "eyes": "Large, rounded or oval-shaped, with strong highlights and minimal iris detail",
+        "mouths": "Small, often simple curved lines; expressive but not overly detailed",
+        "noses": "Small, subtle noses often represented as minimal lines or dots"
+      },
+      "hair": {
+        "style": "Exaggerated, uniquely stylized with big, flowing shapes and strong bangs",
+        "color": "Bright, solid color fills with occasional simple highlights"
+      },
+      "body_proportions": {
+        "torso": "Anime-proportioned, with narrower waists and rounded shoulders",
+        "limbs": "Slender, long limbs; hands and feet are simplified and elegant"
+      },
+      "costuming": {
+        "style": "Distinctive, often featuring Asian-inspired garments with bold shapes, simple patterns, and vibrant colors"
+      }
+    },
+    "backgrounds": {
+      "type": "Simplified painted backgrounds, often with impressionistic foliage or gradient skies",
+      "integration": "Characters are clearly separated from backgrounds, with less detail and softer palette behind them"
+    },
+    "composition": {
+      "character_arrangement": "Dynamic grouping, often layered for depth; characters may overlap and interact visually",
+      "pose_variety": "Expressive poses that accentuate personality, including action stances and playful gestures"
+    },
+    "thematic_elements": {
+      "mood": "Lighthearted, comedic, and energetic with a sense of fun",
+      "iconography": "Frequent use of stylized clouds, visual effects, or playful motif backgrounds"
+    }
+  }
+}
