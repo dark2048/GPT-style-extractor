@@ -1,0 +1,37 @@
+{
+    "art_style": {
+      "name": "Studio Ghibli Style",
+      "medium": "hand-drawn animation",
+      "aesthetic": "whimsical and naturalistic",
+      "color_palette": {
+        "primary_colors": ["green", "blue", "earth tones"],
+        "secondary_colors": ["red", "yellow"],
+        "tone": "soft and warm with natural hues",
+        "lighting": "gentle and diffused, mimicking natural sunlight"
+      },
+      "shapes_and_forms": {
+        "character_design": "rounded features, expressive faces, organic shapes",
+        "environment_design": "lush and detailed, with flowing lines and natural curves",
+        "scale": "realistic with a magical touch"
+      },
+      "texture_and_detail": {
+        "surface": "soft and painterly",
+        "environment": "richly detailed with organic textures like grass, water, and wood",
+        "details": "intricate backgrounds with a focus on nature"
+      },
+      "atmosphere": {
+        "mood": "serene and magical, with a sense of wonder",
+        "lighting_style": "soft natural light, often with a golden hour glow",
+        "weather_effects": "frequent use of rain, wind, or mist to enhance mood"
+      },
+      "themes": {
+        "core_themes": "nature, magic, and human connection",
+        "visual_motifs": "forests, spirits, traditional Japanese elements"
+      },
+      "composition": {
+        "framing": "balanced with a focus on harmony",
+        "perspective": "realistic with slight exaggerations for emotional impact",
+        "focus": "characters integrated seamlessly with detailed backgrounds"
+      }
+    }
+  }

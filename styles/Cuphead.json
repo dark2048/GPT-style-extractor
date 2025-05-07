@@ -1,0 +1,37 @@
+{
+    "art_style": {
+      "name": "Cuphead Ukiyo-e 1920s Vintage Cartoon Style",
+      "medium": "hand-drawn animation with woodblock print influences",
+      "aesthetic": "playful yet intricate, blending vintage cartoon whimsy with Ukiyo-e elegance",
+      "color_palette": {
+        "primary_colors": ["red", "black", "yellow", "blue"],
+        "secondary_colors": ["green", "purple", "white"],
+        "tone": "bold and flat with occasional gradients, evoking vintage inks and woodblock pigments",
+        "lighting": "high contrast with dramatic shadows and soft highlights"
+      },
+      "shapes_and_forms": {
+        "character_design": "elastic and exaggerated proportions, rubber-hose limbs, stylized and flowing silhouettes",
+        "environment_design": "ornate and layered, with curved lines and natural motifs like waves or clouds",
+        "scale": "dynamic and disproportionate, emphasizing movement and fluidity"
+      },
+      "texture_and_detail": {
+        "surface": "rough and textured like vintage animation cels, with a woodblock print grain",
+        "environment": "detailed patterns with a mix of organic and geometric shapes, evoking traditional Japanese landscapes",
+        "details": "fine line work with bold outlines, incorporating subtle decorative elements"
+      },
+      "atmosphere": {
+        "mood": "energetic and whimsical with a touch of historical charm",
+        "lighting_style": "strong directional light, mimicking both cartoon spotlight and Ukiyo-e daylight",
+        "weather_effects": "stylized rain, mist, or glowing effects to enhance drama"
+      },
+      "themes": {
+        "core_themes": "vintage adventure, cultural fusion, and playful combat",
+        "visual_motifs": "waves, floral patterns, retro cartoon props, and stylized nature elements"
+      },
+      "composition": {
+        "framing": "asymmetrical with a focus on vertical and diagonal lines",
+        "perspective": "slightly distorted for a hand-drawn feel, with layered depth from Ukiyo-e influence",
+        "focus": "central characters framed by intricate backgrounds"
+      }
+    }
+  }
