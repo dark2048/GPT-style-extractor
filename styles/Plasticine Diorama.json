@@ -1,0 +1,37 @@
+{
+"art_style": {
+"name": "Plasticine Diorama Style",
+"medium": "plasticine modeling with diorama setup",
+"aesthetic": "whimsical and tactile, with a handmade, playful charm",
+"color_palette": {
+"primary_colors": ["bright red", "blue", "yellow", "green"],
+"secondary_colors": ["white", "black", "pastel shades"],
+"tone": "vibrant yet soft, with a slightly glossy finish",
+"lighting": "soft and even, with gentle shadows to enhance depth"
+},
+"shapes_and_forms": {
+"character_design": "rounded and simplified forms, with smooth, dough-like contours",
+"environment_design": "small-scale, box-like scenes with layered elements, often including natural motifs like hills or trees",
+"scale": "miniature and slightly exaggerated for a toy-like feel"
+},
+"texture_and_detail": {
+"surface": "smooth and slightly glossy, mimicking plasticine's natural sheen",
+"environment": "soft, organic textures with minimal sharp edges, often with a molded appearance",
+"details": "simplified details with subtle fingerprints or imperfections for authenticity"
+},
+"atmosphere": {
+"mood": "playful and nostalgic, evoking childlike wonder",
+"lighting_style": "soft ambient light, often with a warm glow to enhance the cozy feel",
+"weather_effects": "light effects like gentle mist or glowing lights to add magic"
+},
+"themes": {
+"core_themes": "fantasy, nature, and storytelling, often with a surreal twist",
+"visual_motifs": "miniature landscapes, simple animals, or whimsical objects, often set in a confined space"
+},
+"composition": {
+"framing": "contained within a small, box-like structure, with a focus on depth",
+"perspective": "slightly tilted or staged to mimic a diorama's three-dimensional setup",
+"focus": "central subjects surrounded by complementary background elements"
+}
+}
+}

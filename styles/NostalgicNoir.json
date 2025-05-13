@@ -1,0 +1,33 @@
+{  
+  "art_style_profile": {  
+    "genre": "Nostalgic Noir, inspired by classic film noir cinematography and atmosphere.",  
+    "color_palette": {  
+      "monochrome": "Grayscale black-and-white only, no color elements present.",  
+      "tonal_range": "Wide tonal range from deep blacks to luminous whites, with emphasis on midtones and silvery highlights."  
+    },  
+    "lighting": {  
+      "contrast": "Highly contrasting lighting, with dramatic differences between light and shadow.",  
+      "mood": "Moody, mysterious, and atmospheric—strong interplay of shadow and silhouette.",  
+      "effects": "Chiaroscuro (light-dark contrast), use of backlighting, rim lighting, and selective spotlighting to shape forms."  
+    },  
+    "composition_and_structure": {  
+      "framing": "Classic, cinematic compositions—use of dramatic angles, tight framing, and leading lines.",  
+      "focus": "Foreground subjects often sharply defined against soft, receding, or shadowy backgrounds.",  
+      "vignette": "Frequent vignette or softened edge effects to draw attention inward."  
+    },  
+    "environment_and_texture": {  
+      "setting": "Urban or interior environments with a timeless, mid-20th-century look.",  
+      "weather_and_surface": "Gleaming surfaces, wet streets, rain, smoke, or mist for atmosphere.",  
+      "texture": "Rich, tactile rendering of materials (wool, wood, wet pavement) using light and shadow."  
+    },  
+    "character_and_object_rendering": {  
+      "outline": "Strong, crisp silhouettes often partially obscured by darkness.",  
+      "attire_and_props": "Vintage fashion and accessories, fedora hats, trench coats, or classic objects rendered in black and white."  
+    },  
+    "mood_and_tone": {  
+      "emotional_quality": "Evocative of suspense, longing, intrigue, and romantic melancholy.",  
+      "timelessness": "Stylistic cues tied to classic Hollywood and literary noir."  
+    },  
+    "intended_audience_and_use": "For storytelling, editorial, or cinematic artworks conveying drama and mystery through a classic noir visual language."  
+  }  
+}  

@@ -1,0 +1,42 @@
+{  
+  "art_style_profile": {  
+    "overall_tone": "Playful, whimsical, and imaginative with a child-friendly vibe.",  
+    "medium_appearance": [  
+      "Traditional media look",  
+      "Resemblance to colored pencil, watercolor, and textured paint",  
+      "Visible brush strokes and/or pencil lines"  
+    ],  
+    "color_palette": {  
+      "primary_colors": "Bright, saturated and pastel colors",  
+      "accent_colors": "Earthy and muted tones for shadows and backgrounds",  
+      "contrast": "Soft but clear contrast between elements and backgrounds"  
+    },  
+    "character_design": {  
+      "proportions": "Exaggerated, large heads, wide eyes, small bodies and rounded features",  
+      "expressions": "Friendly, cheerful, openly expressive faces",  
+      "linework": "Sketchy, loose outlines with slight variations in thickness"  
+    },  
+    "robot_design": {  
+      "shapes": "Constructed from simple geometric shapes (squares, rectangles, circles)",  
+      "features": "Visible bolts, seams, antennas, and mechanical joints",  
+      "style": "Non-threatening, cartoonish and anthropomorphic"  
+    },  
+    "setting_structure": {  
+      "composition": "Central grouping of characters often inside or on a vehicle or contraption",  
+      "environment": "Simple whimsical backgrounds (sky, clouds, outer space, abstract city)",  
+      "perspective": "Playful, sometimes skewed or dynamic, not strictly realistic"  
+    },  
+    "details_and_textures": {  
+      "patterns": "Repeating or patchwork patterns on clothing, vehicles and robots",  
+      "texture": "Frequent use of crosshatching, stippling, or layered color textures",  
+      "surface_finish": "Faux-aged or slightly distressed look for added warmth"  
+    },  
+    "theme_motifs": [  
+      "Friendship, adventure, imagination, and exploration",  
+      "Flying or floating vehicles",  
+      "Cooperation between children and friendly robots"  
+    ],  
+    "lighting": "Soft, diffuse lighting with minimal harsh shadows",  
+    "intended_audience": "Young children, suitable for coloring books and storybooks"  
+  }  
+}  

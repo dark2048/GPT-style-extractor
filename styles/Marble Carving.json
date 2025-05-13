@@ -1,0 +1,36 @@
+{
+  "art_style": {
+    "name": "Ultra-Realistic Marble Carving Style",
+    "medium": "stone carving",
+    "material": "white marble",
+    "aesthetic": "ultra-realistic, detailed, epic, cinematic",
+    "color_palette": {
+      "primary_colors": ["white"],
+      "secondary_colors": ["variable based on background elements"],
+      "tone": "monochromatic for the sculpture with subtle shading, colored background",
+      "lighting": "cinematic with strong contrasts and highlights on the sculpture"
+    },
+    "shapes_and_forms": {
+      "subject_design": "highly detailed, anatomically accurate, full-body pose",
+      "environment_design": "symmetrically arranged elements that complement the subject"
+    },
+    "texture_and_detail": {
+      "surface": "smooth, polished marble with fine details",
+      "environment": "background elements carved with similar attention to detail",
+      "details": "intricate and realistic, capturing textures like fabric, skin, or other materials"
+    },
+    "atmosphere": {
+      "mood": "grand, dramatic, and awe-inspiring",
+      "lighting_style": "dramatic with focused light sources to create depth and shadows on the sculpture"
+    },
+    "themes": {
+      "core_themes": "variable, but typically includes elements that enhance the subject's narrative or aesthetic",
+      "visual_motifs": "symmetrically arranged background elements that complement the central figure"
+    },
+    "composition": {
+      "framing": "symmetrical with central subject",
+      "perspective": "realistic with depth, simulating a three-dimensional sculpture",
+      "focus": "central subject with detailed background elements"
+    }
+  }
+}
