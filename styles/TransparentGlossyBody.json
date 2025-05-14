@@ -1,0 +1,47 @@
+{
+  "art_style_profile": {
+    "visual_type": "Photorealistic 3D render",
+    "subject_matter": "Cute, stylized animals or objects with toy-like shapes",
+    "exterior_appearance": {
+      "body_material": "Semi-transparent, glossy plastic-like outer shell",
+      "color_palette": "Soft pastel colors",
+      "surface_quality": [
+        "Glossy with strong highlights",
+        "Translucent to allow inner details to be visible"
+      ]
+    },
+    "interior_elements": {
+      "visible_structure": true,
+      "structure_type": "Simplified, cartoon-style skeleton",
+      "bone_appearance": {
+        "material": "Smooth, slightly matte",
+        "color": "White or off-white"
+      }
+    },
+    "facial_features": {
+      "eyes": "Oversized, kawaii-style, dark and glossy",
+      "expression": "Charming and cute, avoiding horror elements"
+    },
+    "character_shape": "Rounded, soft, collectible toy-inspired proportions",
+    "lighting": {
+      "type": "Soft studio lighting",
+      "effect": [
+        "Creates strong highlights",
+        "Accentuates the glossy surface",
+        "Enhances the translucent quality"
+      ]
+    },
+    "background": {
+      "type": "Soft gradient",
+      "palette": "Pastel tones",
+      "style": "Clean and modern, minimal distractions"
+    },
+    "aesthetic_focus": [
+      "Charm",
+      "Cuteness",
+      "Graphic appeal"
+    ],
+    "anatomy_constraints": "No realistic or detailed anatomy; bones are cartoon-like and intentionally simplified",
+    "tone": "Whimsical, playful, collectible, friendly"
+  }
+}

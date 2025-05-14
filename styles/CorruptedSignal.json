@@ -1,0 +1,43 @@
+{  
+  "art_style_profile": {  
+    "visual_type": "Corrupted signal silhouette",  
+    "subject_representation": {  
+      "method": "Silhouette",  
+      "definition": "Outlines and contours are shaped and fragmented by digital noise, scanlines, or compression artifacts",  
+      "abstraction_level": "Semi-abstract with form recognizable but heavily distorted"  
+    },  
+    "color_usage": {  
+      "palette": [  
+        "[COLOR1]",  
+        "[COLOR2]"  
+      ],  
+      "application": "Static-infused colors layered on top of the distorted subject, used to accentuate or separate features, often contrasting or complementary",  
+      "background": "Typically solid, dark, or muted to increase contrast with the glitched subject"  
+    },  
+    "texture_and_surface": {  
+      "effects": [  
+        "Digital noise",  
+        "Scanlines",  
+        "Pixelation",  
+        "Compression errors",  
+        "Static artifacts"  
+      ],  
+      "purpose": "Textures serve to fragment and dissolve the subject’s form, mimicking digital glitch aesthetics"  
+    },  
+    "lines_and_edges": {  
+      "outline_type": "Broken, jagged, or overlapping edges defined by signal distortion or pixel displacement",  
+      "accent": "Edges may be the most visually dominant, with details largely suggested by the arrangement of noise patterns"  
+    },  
+    "composition_and_mood": {  
+      "style": "Futuristic, cyberpunk, digital decay or datamosh-inspired",  
+      "focus": "Highlighting the loss or corruption of digital information, often with a sense of technological unease or surrealism"  
+    },  
+    "aesthetic_focus": [  
+      "Glitch art",  
+      "Digital abstraction",  
+      "Signal corruption",  
+      "High-contrast color emphasis"  
+    ],  
+    "constraints": "Avoid smooth edges, photographic realism, traditional drawing or painting textures. Maintain a strong digital glitch and noise-infused aesthetic throughout."  
+  }  
+}

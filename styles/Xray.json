@@ -1,0 +1,37 @@
+{  
+  "art_style_profile": {  
+    "visual_type": "X-ray simulation",  
+    "subject_representation": {  
+      "method": "Render the subject as it would appear under X-ray imaging",  
+      "structure": "Internal skeletal and anatomical structures are depicted, showing bones and sometimes cartilage or denser organs"  
+    },  
+    "color_scheme": {  
+      "dominant_colors": [  
+        "Monochrome blues",  
+        "Cool grays",  
+        "Soft whites"  
+      ],  
+      "background": "Typically dark or pitch black to maximize contrast with X-ray subject"  
+    },  
+    "texture_and_transparency": {  
+      "appearance": "Translucent or semi-transparent effect, with overlapping anatomical details visible",  
+      "texture": "Smooth, glowing, or slightly smoky/ethereal to mimic the look of X-ray film"  
+    },  
+    "lighting_and_highlights": {  
+      "edges": "Crisp and luminous edges around bones and dense areas",  
+      "glow": "Soft internal illumination or glow effect for a clinical, technical appearance"  
+    },  
+    "details_and_focus": {  
+      "emphasis": [  
+        "Skeletal structures as primary element",  
+        "Joints, teeth, horns, or skeletal extensions distinctly visible",  
+        "Minimal or no depiction of external skin, fur, or surface texture"  
+      ]  
+    },  
+    "composition_and_mood": {  
+      "style": "Scientific, clinical, anatomical, with an emphasis on internal structures",  
+      "aesthetic": "Clean, medical, informative, sometimes with an otherworldly quality"  
+    },  
+    "constraints": "Avoid skin or surface shading, vibrant or warm colors, painterly or illustrative effects. Maintain accuracy and clarity of internal structures, consistent with real X-ray imagery."  
+  }  
+}

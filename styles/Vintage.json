@@ -1,0 +1,36 @@
+{
+  "art_style_profile": {
+    "visual_type": "Abstracted representation with references to real-world subjects",
+    "palette": {
+      "type": "Monochromatic",
+      "range": "Single vintage-inspired tone (sepia, faded black-and-white, etc.)",
+      "emphasis": "Use of light and dark shades for depth"
+    },
+    "structure": {
+      "abstraction_level": "Loosely to moderately abstracted forms; details may be reduced, softened, or implied",
+      "focus": "Shape, silhouette, and outline are primary; fine details are minimized"
+    },
+    "surface_quality": {
+      "texture": [
+        "Realistic textures reminiscent of aged photographs or vintage prints",
+        "Visible grain, scratches, or wear to suggest age and authenticity"
+      ],
+      "patterns": "Subtle, integrated patterns (e.g., fabric patterns, wallpaper, background elements) to add visual interest without overpowering the composition"
+    },
+    "lighting_and_depth": {
+      "shading": "Emphasis on high-contrast shading to create visual depth within the monochrome palette",
+      "lighting_style": "Soft, diffuse or naturally nostalgic lighting to enhance the vintage mood"
+    },
+    "composition": {
+      "background": "Often textured or blended with the subject, occasionally featuring faded elements or vignetting for atmosphere",
+      "mood": "Nostalgic, timeless, and somewhat cinematic or poetic"
+    },
+    "aesthetic_focus": [
+      "Vintage authenticity",
+      "Textural richness",
+      "Emotional moodiness",
+      "Subtle abstraction"
+    ],
+    "constraints": "Avoid vibrant or multi-color schemes, modern elements, sharp digital effects; maintain focus on subject abstraction, depth via shades, and authentic vintage textures"
+  }
+}

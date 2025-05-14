@@ -1,0 +1,47 @@
+{
+  "art_style_profile": {
+    "visual_type": "Matrix-style digital scene",
+    "background": {
+      "composition": "Cascading neon green code on a black backdrop",
+      "symbol_types": [
+        "Japanese katakana",
+        "Numbers",
+        "Latin letters"
+      ],
+      "arrangement": "Vertical strings of characters ('digital rain'), densely layered for depth"
+    },
+    "subject_representation": {
+      "method": "Subject is constructed from clusters and gradients of glowing green code/symbols",
+      "integration": "Subject blends seamlessly with the digital rain, edges defined by variations in code density and brightness"
+    },
+    "color_scheme": {
+      "primary_colors": [
+        "Neon green",
+        "Black"
+      ],
+      "accents": "Occasional brighter green or subtle yellow highlights for emphasis"
+    },
+    "special_effects": {
+      "glow": "Symbols and overall scene emit a soft, luminous, screen-like green glow",
+      "motion_blur": "Some vertical motion blur is applied to reinforce movement of the falling code",
+      "depth": "Variations in code brightness and blur create a layered, immersive cyber-digital effect"
+    },
+    "lighting": {
+      "effect": "Glow from code acts as ambient lighting, casting soft green illumination on subject edges"
+    },
+    "mood_and_aesthetic": {
+      "atmosphere": [
+        "Cyberpunk",
+        "High-tech",
+        "Futuristic",
+        "Immersive digital environment"
+      ],
+      "focus": [
+        "Dense code texture",
+        "Glowing neon ambiance",
+        "Sharp-edged silhouettes formed by luminous symbols"
+      ]
+    },
+    "constraints": "Avoid photographic realism, physical brushwork, or traditional shading. All forms, details, and lighting should originate from arrangements of glowing code."
+  }
+}

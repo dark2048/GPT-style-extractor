@@ -1,0 +1,42 @@
+{  
+  "art_style_profile": {  
+    "visual_type": "Abstract liquid plume imagery",  
+    "subject_representation": {  
+      "method": "Formed by swirling plumes of ink or pigment suspended in milky water",  
+      "structure": "Abstracted contours, softly suggested shapes, natural transitions between form and background",  
+      "recognizability": "Subject is discernible but made ethereal and poetic through abstraction"  
+    },  
+    "color_scheme": {  
+      "primary_colors": [  
+        "Rich ink blacks",  
+        "Cloudy whites"  
+      ],  
+      "blending": "Soft gradients and natural blending between dark and light, with subtle tonal transitions"  
+    },  
+    "texture_and_effects": {  
+      "diffusion": "Soft, smooth diffusion of edges, mimicking the organic flow of ink in water",  
+      "surface_quality": "Flowing, tender, and slightly smoky with delicate spirals or tendrils",  
+      "detail": "Emphasis on the interplay between dense black plumes and the open, lighter areas"  
+    },  
+    "lighting_and_mood": {  
+      "illumination": "Even, diffused light enhances transparency and movement within the plumes",  
+      "atmosphere": [  
+        "Dreamy",  
+        "Poetic",  
+        "Transcendent",  
+        "Tranquil"  
+      ]  
+    },  
+    "composition_and_focus": {  
+      "background": "Generally soft or white, allowing the plume forms to float gently and stand out",  
+      "flow": "Organic, wispy paths and currents suggest movement and evoke fluid dynamism"  
+    },  
+    "aesthetic_focus": [  
+      "Abstract impression",  
+      "Fluid dynamics",  
+      "Natural blending",  
+      "Soft organic transitions"  
+    ],  
+    "constraints": "Avoid sharp outlines, hard edges, saturated or varied color palettes, rigid structures, or high detail outside the primary plume forms. Maintain an overall feeling of softness and abstraction drawn from the motion of ink in water."  
+  }  
+}
